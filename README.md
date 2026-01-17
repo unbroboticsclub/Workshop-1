@@ -1,5 +1,5 @@
 # Workshop 1 - Introduction to Arduinos, Motors, & Sensors
-Date: Sunday, January 19 2026 & Wednesday, January 21 2026
+Date: Friday, January 16 2026 & Wednesday, January 21 2026
 
 Time: 6pm - 9pm
 
